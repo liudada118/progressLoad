@@ -1,0 +1,23 @@
+{
+  "id": "2497894",
+  "name": "外包",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2028206",
+      "name": "删除",
+      "font_class": "shanchu1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "683283",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}

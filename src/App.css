@@ -1,0 +1,21 @@
+a{
+  text-decoration: none;
+}
+/* #root{
+  cursor:url('./assect//image/myBall.cur') 8 8,auto;
+} */
+@font-face {
+  font-family: 'font';
+  src: url('./assets/font/NetflixSans_Lt.ttf');
+}
+.font{
+  font-family: 'font';
+}
+/* *{
+  cursor:url('./assect//image/myBall.cur') 8 8,auto!important;
+} */
+
+*{
+  padding: 0;
+  margin: 0;
+}

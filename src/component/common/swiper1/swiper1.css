@@ -1,0 +1,14 @@
+#bill .swiper-container .swiper-button-next:after {
+  color: #fff;
+  font-size: 100px;
+  padding-left: 80%;
+}
+#bill .swiper-container .swiper-button-prev:after {
+  color: #fff;
+  font-size: 100px;
+  padding-right: 80%;
+}
+
+#bill .swiper-slide {
+  width:100%
+}

@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #23252B;
+}
+.contentItem{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.Compact{
+  background-color: #D8D8D8;
+  color: #4d4d4d;
+  transition: box-shadow 0.2s;
+}
+
+.Compact:hover {
+  box-shadow: 0 0 10px #444444;
+}
+
+.Billboard{
+  background-color: #4d4d4d;
+  color: #f2f2f2;
+  transition: box-shadow 0.2s;
+}
+
+.Billboard:hover {
+  box-shadow: 0 0 10px #444444;
+}
+
+.leftA{
+  margin-right: 100px;
+}
